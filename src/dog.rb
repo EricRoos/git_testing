@@ -2,7 +2,7 @@ require './animal.rb'
 class Dog < Animal
   
   def bark
-    "woof woof"
+    "woof woof woof!"
     wag_tag
   end
 
