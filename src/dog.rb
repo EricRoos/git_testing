@@ -9,4 +9,8 @@ class Dog < Animal
   def wag_tag
     "*** wags tail"
   end
+
+  def jump
+    "** jumps"
+  end 
 end
