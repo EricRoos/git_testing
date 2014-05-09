@@ -1,4 +1,6 @@
-class Horse
+require './animal.rb'
+
+class Horse < Amimal
   def neigh
     "neigh neigh"
   end

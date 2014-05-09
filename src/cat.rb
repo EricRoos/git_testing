@@ -1,4 +1,6 @@
-class Cat
+require './animal.rb'
+
+class Cat < Animal
   def meow
     "meow meow"
   end
