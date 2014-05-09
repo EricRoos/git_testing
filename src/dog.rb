@@ -3,6 +3,7 @@ class Dog < Animal
   
   def bark
     "woof woof woof!"
+    "woof!"
   end
 
   def jump
